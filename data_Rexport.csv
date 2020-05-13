@@ -1,0 +1,101 @@
+Regional.Association,Site.Name,Data.File,Data.File.Location,Drainage.Area.sq.mi,XS.Area.sq.ft,Bankfull.Width.ft,Bankfull.Depth.ft,Longitudinal.Slope.pct
+IA,Clear Creek,Sallys_MasterDataFile_PLM.xlsx,fromPete.Nate.0122,6.874,34.598,24.245,1.349,0.004
+IA,Holland Creek,Sallys_MasterDataFile_PLM.xlsx,fromPete.Nate.0122,18.553,39.133,25.481,1.763,0.000174
+IA,Onion Creek,Sallys_MasterDataFile_PLM.xlsx,fromPete.Nate.0122,4.338,32.775,19.808,1.581,0.000736
+IA,Onion Creek 2,Sallys_MasterDataFile_PLM.xlsx,fromPete.Nate.0122,10.834,62.112,36.34,1.481,0.001564
+IA,Paint Creek ,Sallys_MasterDataFile_PLM.xlsx,fromPete.Nate.0122,73.848,166.088,84.185,2.163,
+IA,South Fork Iowa,Sallys_MasterDataFile_PLM.xlsx,fromPete.Nate.0122,6.634,132.83,46.85,2.683,
+IA,Springbrook,Sallys_MasterDataFile_PLM.xlsx,fromPete.Nate.0122,8.066,35.553,26.738,1.404,0.00034
+IA,Wolf Creek,Sallys_MasterDataFile_PLM.xlsx,fromPete.Nate.0122,60.438,122.429,39.025,2.875,0.000153
+IA,Fourmile ,fourmile_creek.xlsx,from.Pete.0129,62,193.866,68.57,3.94,0.0033
+IA,Keigley Branch,DRAFT Statewide Table.xlsx,fromPete.Nate.0122,32.4,73,29,2.51,0.0024
+IA,Bluff,bluff_creek.xlsx,from.Pete.0129,23.5,59.171,37.91,3.06,0.00269
+IA,Indian Woods Park,DRAFT Statewide Table.xlsx,fromPete.Nate.0122,0.08,17.73,10,1.77,0.0196
+IA,Turkey Creek Nature Area,DRAFT Statewide Table.xlsx,fromPete.Nate.0122,7.1,87.2,55.1,1.58,0.002
+IA,Maquoketa River,DRAFT Statewide Table.xlsx,fromPete.Nate.0122,168,473.61,115.3,4.11,0.0006
+IA,Yellow River (Warners Ford),DRAFT Statewide Table.xlsx,fromPete.Nate.0122,210,377,77.9,4.84,0.0024
+IA,Upstream of Albrights (Boone River),DRAFT Statewide Table.xlsx,fromPete.Nate.0122,852,1159.7,177.9,6.52,0.0009
+IA,Sleepy Hollow,DRAFT Statewide Table.xlsx,fromPete.Nate.0122,315,611,101.8,6.01,0.0008
+IA,Ref Reach Above Andersons,DRAFT Statewide Table.xlsx,fromPete.Nate.0122,180,472,82,5.73,0.0003
+IA,Botna Bend,DRAFT Statewide Table.xlsx,fromPete.Nate.0122,609,1178,141,9.69,0.0006
+IA,Ballard Creek,DRAFT Statewide Table.xlsx,fromPete.Nate.0122,16.1,54,23.1,2.32,0.0024
+IA,Manchester,DRAFT Statewide Table.xlsx,fromPete.Nate.0122,275,802.3,130.3,6.16,0.0005
+IA,South Fork Maquoketa,DRAFT Statewide Table.xlsx,fromPete.Nate.0122,19.8,84.4,30.4,2.78,0.00056
+IA,First Unitarian Church,DRAFT Statewide Table.xlsx,fromPete.Nate.0122,0.54,24.7,14.41,1.71,0.0075
+IA,Bloody Run,Bloody_Run.xlsx,from_Pete,34.13,141.769,84.785,1.67,
+IA,Middle Fork Dry Run Creek,DRAFT Statewide Table.xlsx,fromPete.Nate.0122,9.8,93,33,2.81,0.005
+IA,Sny Magill,Sny Magill.xslx,from_Pete,27.6,197.059,45.528,4.391,
+IA,Wexford,Wexford.xlsx,from_Pete,,,,,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,0.598,7.028,8.093,0.874,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,3.805,9.156,10.428,0.906,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,5.33,19.058,10.546,1.806,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,8.001,25.592,,2.142,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,8.141,18.915,12.26,1.579,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,9.109,21.671,13.298,1.652,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,9.109,23.909,16.018,1.839,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,9.109,29.1,18.632,1.332,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,14.402,17.016,19.967,0.859,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,14.527,19.643,15.281,1.32,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,14.908,61.495,67.7,0.914,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,18.03,56.589,30.339,1.856,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,36.946,69.926,37.37,1.889,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,40.281,89.058,41.49,2.18,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,49.998,71.53,46.054,1.418,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,118.665,100.505,51.676,1.958,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,189.246,178.501,73.206,2.45,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,238.989,243.341,80.322,3.382,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,238.989,280.917,63.652,3.766,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,291.551,331.732,74.027,4.425,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,301.807,225.627,61.453,3.938,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,301.807,247.047,,5.293,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,307.07,319.43,52.219,,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,371.381,514.233,135.479,3.234,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,371.381,602.681,159.433,4.269,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,371.381,554.603,,,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,858.883,866.237,228.388,3.834,
+Eastern MN,NA,MN-IA-XSArea-curves,from_Pete,1357.947,733.545,155.511,4.628,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,7.663,22.337,11.569,1.993,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,16.826,37.062,19.278,1.872,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,18.99,37.626,14.751,2.539,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,21.807,25.208,13.755,1.872,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,25.922,31.385,19.268,1.608,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,39.935,43.437,32.499,1.356,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,39.935,102.81,33.653,2.363,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,45.858,44.098,20.886,2.123,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,53.577,34.887,31.739,1.094,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,71.261,101.268,46.033,2.22,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,74.408,35.419,17.533,1.262,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,75.054,41.198,32.098,2.048,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,77.026,37.626,20.393,1.839,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,95.605,44.098,30.276,1.444,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,103.339,63.383,41.438,1.524,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,121.783,66.323,36.456,1.806,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,137.448,113.424,34.392,3.292,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,142.283,96.778,33.212,2.93,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,143.518,72.619,25.713,,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,143.518,58.326,19.909,,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,166.234,170.588,39.994,4.231,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,192.546,120.493,34.377,3.537,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,194.217,107.579,42.379,2.957,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,195.903,128.003,,,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,208.122,182.595,49.869,3.666,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,262.827,99.748,29.541,3.413,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,279.22,188.199,101.332,1.872,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,289.042,130.939,43.356,3.065,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,304.427,199.929,,,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,312.424,191.065,,3.766,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,352.612,204.514,52.819,3.903,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,401.424,217.26,45.402,4.754,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,453.06,243.341,113.759,2.161,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,524.771,258.507,152.115,1.697,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,657.003,237.885,120.518,1.958,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,668.459,118.686,86.012,1.368,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,858.883,237.885,54.635,,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,889.097,309.918,,,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,896.815,143.369,69.089,2.28,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,904.6,171.882,,2.516,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,920.373,314.638,,4.193,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,1234.786,252.712,68.112,3.666,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,1744.784,329.235,140.017,2.342,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,35018.238,6274.7,277.015,17.272,
+Western MN,NA,MN-IA-XSArea-curves,from_Pete,35018.238,5273.521,357.778,18.891,
